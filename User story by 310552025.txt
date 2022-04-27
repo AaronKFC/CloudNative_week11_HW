@@ -1,0 +1,7 @@
+User story @ Uber
+As a user, I want to request a ride on the Uber App.
+Select the destination and vehicle type, then wait for my request to 
+be accepted by a driver.
+Given: Uber app that is user-friendly.
+When: User select the destination and vehicle type
+Then: User wait for the driver and receive the estimated time.
