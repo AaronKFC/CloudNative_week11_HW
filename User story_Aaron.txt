@@ -1,0 +1,11 @@
+Cart的user story
+As a user, I want to remove a specific item from the cart.
+Given: User navigates to cart content page.
+When: User selects the item to be removed and clicks the button "Yes, I want to remove these items"
+Then: The user's web page is refreshed and leaves the unremoved items.
+
+uber
+As a user, I want to book a car and know how long will the designated driver arrive at the pick-up location.
+Given: User navigates to the car booking page.
+When: User is directed to map and select the pick-up location.
+Then: User receives the information of the car, driver, and pick up time.
