@@ -9,3 +9,8 @@ As a user, I want to book a car and know how long will the designated driver arr
 Given: User navigates to the car booking page.
 When: User is directed to map and select the pick-up location.
 Then: User receives the information of the car, driver, and pick up time.
+
+As a user, I want to book a car with at least 6 seats so that I don't need to book multiple cars to accommodate 6 people.
+Given: User navigates to the car booking page.
+When: User is directed to map and select the pick-up location.
+Then: User can select the minimum seats of the car.
