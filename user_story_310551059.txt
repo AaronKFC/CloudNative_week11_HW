@@ -1,0 +1,5 @@
+User story: Uber Eats
+As a user, I want to register in the app so that I can see a list of restaurants and order food.
+Given: User navigates to the login page.
+When: User clicks the "sign up" button and fill his information in the blanks.
+Then: User create his account and can see a list of restaurants and order food.
