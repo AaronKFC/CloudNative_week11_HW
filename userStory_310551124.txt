@@ -1,0 +1,5 @@
+user story: Uber
+As a user, I would like to book a car with a large enough trunk to fit two suitcases so that I don't have to book two cars.
+Given: The user navigates to the booking page.
+When: The user is directed to map and select the pick-up location.
+Then: The user can select the amount of luggage the car needs to accommodate on the booking page.
